@@ -1,0 +1,12 @@
+fps = 60
+screen_size = 700
+player_speed = 1
+player_img_size = 150
+bullet_img_size = 30
+bullet_speed = -4
+bird_img_size = 150
+snake_speed_x = 1
+snake_speed_y = 40
+win = False
+game_over = False
+score_img = []
